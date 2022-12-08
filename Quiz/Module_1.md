@@ -47,7 +47,7 @@
 ### Question 6: Which of the following are true statements about application frameworks in the context of Android (choose all that apply):
 * ***Android frameworks provide an integrated set of components that provide a reusable architecture for a family of related mobile apps***
 * ***Android frameworks enhance systematic reuse by providing canonical structure and functionality to mobile apps***
-* Android frameworks use an event-driven programming model to plug app code into them***
+* ***Android frameworks use an event-driven programming model to plug app code into them***
 * Android frameworks enable app component to dictate the flow of control in a program, rather than the frameworks themselves
 
 ### Question 7: Which of the following are true statements about the Android Application Framework layer (choose all that apply):
@@ -60,4 +60,4 @@
 * The bulk of these apps are written in C/C++
 * These apps cannot be written in C/C++
 * ***The bulk of these apps are written in Java***
-* It's possible to write portions of the apps in C/C++***
+* ***It's possible to write portions of the apps in C/C++***
