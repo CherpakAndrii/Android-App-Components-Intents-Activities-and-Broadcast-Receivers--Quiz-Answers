@@ -1,3 +1,6 @@
+# Module 1
+## Android App Components - Intents Activities and Broadcast Receivers
+
 ### Question 1: Which of the following are examples of hardware elements commonly found in Android devices (choose all that apply):
 
 * Intent
