@@ -200,7 +200,69 @@
 
 # Module 4
 
-### Will be created soon
+### Question 1: Which of the following correctly describe what an activity is in Android (choose all that apply): 
+* An event handler that responds to system-side broadcast announcements
+* ***A component that defines a user-facing operation that's displayed on a device screen***
+* A component that runs in the background to perform long-running operations or access remote resources
+* A message that describes an action to perform or an event that has occurred
+
+### Question 2: Which of the following correctly define what a hook method is (choose all that apply):
+* It is an unnamed block of code that can be passed around and executed later
+* ***It is used to customize reusable framework classes to run app-specific logic***
+* It is the smallest unit of execution for sequences of programmed instructions
+* It is an event handler that responds to broadcast announcements
+
+### Question 3: Which of the following are lifecycle hook methods provided by Android's activity framework (choose all that apply):
+* ***onPause()***
+* ***onStop()***
+* ***onStart()***
+* ***onDestroy()***
+* onBind()
+* ***onCreate()***
+* onReceive()
+* ***onResume()***
+
+### Question 4: Which of the following statements about the startActivityForResult() method are true (choose all that apply):
+* This method is asynchronous and one-way
+* ***This method is asynchronous and two-way***
+* This method is synchronous and one-way
+* This method is synchronous and two-way
+
+### Question 5: Which of the following lifecycle hook methods may not be called in low memory situations (choose all that apply):
+* ***onDestroy()***
+* ***onStop()***
+* onPause()
+* onResume()
+
+### Question 6: Which of the following Android system services call lifecycle hook methods on activities, services, and broadcast receivers (choose all that apply):
+* ***Activity Manager Service***
+* Location Manager Service
+* Notification Manager Service
+* Window Manager Service
+
+### Question 7: Which of the following statements accurately reflect what happens when a user enters text via the Android virtual keyboard (choose all that apply):
+* The onResume() hook method is called back to return UI focus for this screen
+* ***The UI focus is unchanged and no lifecycle hook methods are called***
+* A new activity is started and its onCreate() hook method is called
+* The onStart() hook method is called back and the activity becomes visible
+
+### Question 8: Which of the following correctly define what a "task" is in the contact of Android activities (choose all that apply):
+* It is an unnamed block of code that can be passed around and executed later
+* It is a unit of execution for sequences of programmed instructions
+* It is a component that runs in the background performing long-running operations or accessing remote resources
+* ***It is a group of activities a user interacts with when performing a certain job***
+
+### Question 9: Which of the following correctly describe how activities can be used in concurrent apps (choose all that apply):
+* ***Any long-duration operations must run in background threads via concurrency frameworks***
+* ***UI toolkit components should only be accessed by the UI thread***
+* ***All methods called in the UI thread must be short-duration and non-blocking***
+* An activity cannot be used in a concurrent app
+
+### Question 10: Which of the following correctly describes the capabilities of the Android HaMeR framework (choose all that apply):
+* It handles asynchronous requests on demand and expresses these requests as intents that are passed between threads and/or processes
+* It enables operations to run in one or more background threads and publish results to the UI thread without directly using threads, handlers, messages, and/or runnables
+* It is a component that runs in the background to perform long-running operations or access remote resources
+* ***It enables operations to run in one or more background threads and publish results to the UI thread***
 
 # Module 5
 
