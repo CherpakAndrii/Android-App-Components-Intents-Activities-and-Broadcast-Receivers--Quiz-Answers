@@ -4,7 +4,7 @@
 * [Module 1 (100%)](https://github.com/CherpakAndrii/Android-App-Components--Intents-Activities-and-Broadcast-Receivers#module-1)
 * [Module 2 (100%)](https://github.com/CherpakAndrii/Android-App-Components--Intents-Activities-and-Broadcast-Receivers#module-2)
 * [Module 3 (100%)](https://github.com/CherpakAndrii/Android-App-Components--Intents-Activities-and-Broadcast-Receivers#module-3)
-* [Module 4 (not ready)](./README.md#module-4)
+* [Module 4 (100%)](https://github.com/CherpakAndrii/Android-App-Components--Intents-Activities-and-Broadcast-Receivers#module-4)
 * [Module 5 (100%)](https://github.com/CherpakAndrii/Android-App-Components--Intents-Activities-and-Broadcast-Receivers#module-5)
 
 # Module 1
